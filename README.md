@@ -7,7 +7,7 @@ A clean, responsive login form built with HTML, CSS and a touch of JavaScript.
 
 ## Preview
 
-![Login Form Preview](Screenshot 2024-08-09 200743.png)
+![Login Form Preview](./Screenshot%202024-08-09%20200743.png)
 
 
 ## Features
